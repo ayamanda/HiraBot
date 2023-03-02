@@ -1,0 +1,3 @@
+torch
+pydub
+-U openai-whisper
